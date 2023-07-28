@@ -1,0 +1,19 @@
+		**Welcome Customer**
+ Bill Number: 2869
+ Customer Name: wung
+ Customer Phone Number: 383292983
+ ==========================================
+ Product		Quantity		Price
+ ==========================================	 Bath Soap		02		1000 Frs
+ Hair Gel		03		12000 Frs
+ Wheat		03		9000 Frs
+ Sprite		02		1200 Frs
+ Sandwich		02		6000 Frs
+ Cheeseburger		02		2000 Frs
+ ------------------------------------------
+ Cosmetic Tax Price			780 Frs
+ Grocery Tax Price			360 Frs
+ Cold Drinks Tax Price		150 Frs
+ Fast Food Tax Price			240 Frs
+ ------------------------------------------
+ Total Bill		32730 Frs

@@ -1,0 +1,19 @@
+		**Welcome Customer**
+ Bill Number: 2268
+ Customer Name: 
+ Customer Phone Number: 
+ ==========================================
+ Product		Quantity		Price
+ ==========================================
+ Hair Gel		023		92000 Frs
+ Oil		03		24000 Frs
+ Sprite		03		1800 Frs
+ Sandwich		03		9000 Frs
+ ------------------------------------------
+ Cosmetic Tax Price			5520 Frs
+ Grocery Tax Price			960 Frs
+ Cold Drinks Tax Price		225 Frs
+ Fast Food Tax Price			270 Frs
+ ------------------------------------------
+
+ Total Bill		133775 Frs

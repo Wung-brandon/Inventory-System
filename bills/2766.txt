@@ -1,0 +1,15 @@
+		**Welcome Customer**
+ Bill Number: 2766
+ Customer Name: ojong
+ Customer Phone Number: 289202
+ ==========================================
+ Product		Quantity		Price
+ ==========================================	 Bath Soap		02		1000 Frs
+ Sugar		01		4000 Frs
+ Pepsi		02		2000 Frs
+ ------------------------------------------
+ Cosmetic Tax Price			60 Frs
+ Grocery Tax Price			160 Frs
+ Cold Drinks Tax Price		250 Frs
+ ------------------------------------------
+ Total Bill		7470 Frs

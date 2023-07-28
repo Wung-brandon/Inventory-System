@@ -1,0 +1,17 @@
+		**Welcome Customer**
+ Bill Number: 2903
+ Customer Name: 
+ Customer Phone Number: 
+ ==========================================
+ Product		Quantity		Price
+ ==========================================
+ Sugar		02		8000 Frs
+ Pepsi		03		3000 Frs
+ Onion Rings		01		1000 Frs
+ ------------------------------------------
+ Grocery Tax Price			320 Frs
+ Cold Drinks Tax Price		375 Frs
+ Fast Food Tax Price			30 Frs
+ ------------------------------------------
+
+ Total Bill		12725 Frs

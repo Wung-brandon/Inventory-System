@@ -1,0 +1,19 @@
+		**Welcome Customer**
+ Bill Number: 1658
+ Customer Name: brandon
+ Customer Phone Number: 
+ ==========================================
+ Product		Quantity		Price
+ ==========================================
+ Face Cream		03		15000 Frs
+ Sugar		05		20000 Frs
+ Sprite		05		3000 Frs
+ Onion Rings		02		2000 Frs
+ ------------------------------------------
+ Cosmetic Tax Price			900 Frs
+ Grocery Tax Price			800 Frs
+ Cold Drinks Tax Price		375 Frs
+ Fast Food Tax Price			60 Frs
+ ------------------------------------------
+
+ Total Bill		42135 Frs

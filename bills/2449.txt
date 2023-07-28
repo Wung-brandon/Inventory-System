@@ -1,0 +1,19 @@
+		**Welcome Customer**
+ Bill Number: 2449
+ Customer Name: 
+ Customer Phone Number: 
+ ==========================================
+ Product		Quantity		Price
+ ==========================================
+ Hair Gel		02		8000 Frs
+ Rice		03		37500 Frs
+ Pepsi		04		4000 Frs
+ Sandwich		06		18000 Frs
+ ------------------------------------------
+ Cosmetic Tax Price			480 Frs
+ Grocery Tax Price			1500 Frs
+ Cold Drinks Tax Price		500 Frs
+ Fast Food Tax Price			540 Frs
+ ------------------------------------------
+
+ Total Bill		70520 Frs
